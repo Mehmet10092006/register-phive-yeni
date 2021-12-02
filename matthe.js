@@ -89,7 +89,7 @@ member.roles.add(ayarlar.kayıtsızRol)
 
 Şimdiden iyi eğlenceler! <a:matthe_tada2:903542188863029288>`)});
 
-client.login(process.env.Token)
+client.login("OTE1MTYwNzAwNDQ2NDQ1NTk4.YaXj0Q.wlg4gpzHRmPAFHB6F3nWMkOGOqo")
 
 client.on("guildMemberAdd", member => {
 member.setNickname(`• İsim | Yaş`) 
